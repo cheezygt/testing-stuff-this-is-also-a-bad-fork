@@ -1,7 +1,6 @@
 ﻿using ExitGames.Client.Photon;
 using GorillaExtensions;
 using HoldablePad.Behaviours.Holdables;
-using HoldablePad.Behaviours.Networking;
 using HoldablePad.Behaviours.Pages;
 using HoldablePad.Utils;
 using Photon.Pun;
